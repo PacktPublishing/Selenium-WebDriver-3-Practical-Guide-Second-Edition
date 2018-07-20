@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Chapter 4" verbose="1">
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+    </listeners>
+    <test name="Frame Handling Test">
+        <classes>
+            <class name="com.example.FrameHandlingTest"/>
+        </classes>
+    </test>
+    <test name="Cookies Test">
+        <classes>
+            <class name="com.example.StoreCookieInfo"/>
+            <class name="com.example.LoadCookieInfo"/>
+        </classes>
+    </test>
+    <test name="Navigation Test">
+        <classes>
+            <class name="com.example.SearchAndNavigationTest"/>
+        </classes>
+    </test>
+    <test name="Window Handling Test">
+        <classes>
+            <class name="com.example.WindowHandlingTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Chapter 5" verbose="1">
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+    </listeners>
+    <test name="Actions Test">
+        <classes>
+            <class name="com.example.ActionsTest"/>
+        </classes>
+    </test>
+</suite>

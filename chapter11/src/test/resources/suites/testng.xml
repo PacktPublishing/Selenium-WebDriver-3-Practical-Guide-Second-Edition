@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Chapter 1" verbose="1">
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+    </listeners>
+    <test name="Search Test">
+        <parameter name="searchWord" value="phones"/>
+        <parameter name="items" value="3"/>
+        <classes>
+            <class name="com.example.SearchTest"/>
+        </classes>
+    </test>
+</suite>
