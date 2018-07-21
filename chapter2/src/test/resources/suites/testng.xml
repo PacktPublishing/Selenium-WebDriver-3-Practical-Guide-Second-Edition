@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Chapter 1" verbose="1">
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+    </listeners>
+    <test name="Navigation Test">
+        <classes>
+            <class name="com.example.NavigationTest"/>
+        </classes>
+    </test>
+    <test name="Search Test">
+        <classes>
+            <class name="com.example.SearchTest"/>
+        </classes>
+    </test>
+    <test name="Locators Test">
+        <classes>
+            <class name="com.example.LocatorTest"/>
+        </classes>
+    </test>
+    <test name="Elements Test">
+        <classes>
+            <class name="com.example.ElementTests"/>
+        </classes>
+    </test>
+</suite>

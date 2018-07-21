@@ -28,8 +28,11 @@ public class SearchTestWithCSVDataProvider {
 
     @DataProvider(name = "searchWords")
     public Iterator<Object[]> provider() throws Exception {
-        CSVReader reader = new CSVReader(new FileReader("./src/test/resources/data/data.csv")
-                ,',','\'',1);
+
+        CSVReader reader = new CSVReader(
+                new FileReader("./src/test/resources/data/data.csv")
+                , ',', '\'', 1);
+
         List<Object[]> myEntries = new ArrayList<Object[]>();
         String[] nextLine;
         while ((nextLine = reader.readNext()) != null) {
