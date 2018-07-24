@@ -30,7 +30,8 @@ public class BmiCalculatorTest {
         caps.setCapability("platform", "OS X 10.9");
         caps.setCapability("browserName", "Safari");
         caps.setCapability("name", "BMI Calculator Test");
-        driver = new RemoteWebDriver(new URL(MessageFormat.format("http://{0}:{1}@ondemand.saucelabs.com:80/wd/hub'",
+        driver = new RemoteWebDriver(
+                new URL(MessageFormat.format("http://{0}:{1}@ondemand.saucelabs.com:80/wd/hub'",
                 SAUCE_USER, SAUCE_KEY)), caps);
         driver.get("http://bit.ly/1zdNrFZ");
 
