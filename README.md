@@ -56,8 +56,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 	Unmesh Gundecha has over 16 years, experience in Agile software development, test automation, and DevOps methodologies. He is an Agile, open source, and DevOps evangelist with extensive experience in a diverse set of tools and technologies. He has extensive hands-on experience in building sustainable and repeatable test automation solutions for web and mobile platforms, APIs, and CLI apps with continuous integration and delivery pipelines, using best-of-breed open source and commercial tools to do so. He is the author of Selenium Testing Tools Cookbook and Learning Selenium Testing Tools with Python, both by Packt Publishing.
 
 ## Other books by the authors
-* [Mastering Selenium WebDriver 3.0 - Second Edition](https://www.packtpub.com/web-development/mastering-selenium-webdriver-30-second-edition?utm_source=github&utm_campaign=9781788999762)
-* [Selenium Framework Design in Data-Driven Testing](https://www.packtpub.com/web-development/selenium-framework-design-data-driven-testing?utm_source=github&utm_campaign=9781788999762)
+* [Selenium Testing Tools Cookbook - Second Edition](https://www.packtpub.com/web-development/selenium-testing-tools-cookbook-second-edition)
+* [Selenium Framework Design in Data-Driven Testing](https://www.packtpub.com/web-development/learning-selenium-testing-tools-python)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
