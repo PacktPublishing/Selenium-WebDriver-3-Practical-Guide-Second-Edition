@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/selenium-webdriver-3-practical-guide-second-edition/9781788999762)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1788999762).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 #  Selenium WebDriver 3 Practical Guide Second Edition
 
 <a href="https://www.packtpub.com/web-development/selenium-webdriver-3-practical-guide-second-edition?utm_source=github&utm_campaign=9781788999762"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09986.png" alt="Selenium WebDriver 3 Practical Guide Second Edition" height="256px" align="right"></a>
