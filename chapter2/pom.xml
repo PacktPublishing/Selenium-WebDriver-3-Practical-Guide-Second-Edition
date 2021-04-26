@@ -19,7 +19,7 @@
         <assertj.version>3.8.0</assertj.version>
         <maven.compiler.version>3.7.0</maven.compiler.version>
         <commons.version>3.7</commons.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
     </properties>
 
     <dependencies>
